@@ -26,9 +26,7 @@
   "web_accessible_resources": [
     {
       "resources": [
-        "fbx/*.fbx",
-        "libs/*.js"
-
+        "fbx/*.fbx"
       ],
       "matches": ["https://www.youtube.com/*"]
     }
